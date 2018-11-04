@@ -24,5 +24,5 @@ Android Baking App that will allow the user, to share his/her recipes with the w
 ### Widget
 ![atp txt](https://github.com/shahshail/BakingApp/blob/master/Screenshots/tablet_widget.png)
 
-## Hanficrafted Chicago
+## Handicrafted in Chicago
 
