@@ -1,0 +1,104 @@
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:id="@+id/detail_detail"
+    tools:context="com.corral.firebase.shailshah.bakingapp.StapesDetailFragment">
+
+    <TextView
+        android:id="@+id/detail_description"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:paddingBottom="30dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:text="@string/detail_description"
+        android:paddingTop="50dp"
+        android:gravity="top"
+        android:textSize="16dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Light.SearchResult.Title"
+        android:layout_marginLeft="8dp"
+        card_view:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginRight="8dp"
+        card_view:layout_constraintRight_toRightOf="parent"
+        card_view:layout_constraintHorizontal_bias="0.0"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:textColor="#212121"
+        card_view:layout_constraintTop_toBottomOf="@+id/view"
+        android:layout_marginTop="-1dp" />
+    <View
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:background="@android:color/darker_gray"
+        android:layout_marginTop="23dp"
+        card_view:layout_constraintTop_toBottomOf="@+id/playerView"
+        android:layout_marginLeft="8dp"
+        card_view:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginRight="8dp"
+        card_view:layout_constraintRight_toRightOf="parent"
+        card_view:layout_constraintHorizontal_bias="0.0"
+        android:id="@+id/view"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <Button
+        android:id="@+id/next_button"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="8dp"
+        card_view:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginRight="8dp"
+        android:text="@string/detail_step"
+        android:textAlignment="center"
+        android:backgroundTint="@color/colorPrimary"
+        android:textColor="#FFFF"
+        android:textSize="18sp"
+        android:drawableRight="@drawable/ic_next_arrow"
+        card_view:layout_constraintRight_toRightOf="parent"
+        card_view:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        card_view:layout_constraintHorizontal_bias="0.993"
+        android:layout_marginTop="8dp"
+        card_view:layout_constraintTop_toBottomOf="@+id/detail_description"
+        card_view:layout_constraintVertical_bias="0.447"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp" />
+
+    <com.google.android.exoplayer2.ui.SimpleExoPlayerView
+        android:id="@+id/playerView"
+        android:layout_width="0dp"
+        android:layout_height="300dp"
+        android:layout_marginTop="25dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        card_view:layout_constraintHorizontal_bias="0.0"
+        card_view:layout_constraintLeft_toLeftOf="parent"
+        card_view:layout_constraintRight_toRightOf="parent"
+        card_view:layout_constraintTop_toTopOf="parent">
+
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="8dp"
+            android:visibility="invisible"
+            card_view:layout_constraintBottom_toBottomOf="parent"
+            card_view:layout_constraintLeft_toLeftOf="@+id/playerView"
+            card_view:layout_constraintRight_toRightOf="parent"
+            card_view:layout_constraintTop_toTopOf="@+id/playerView"
+            card_view:layout_constraintVertical_bias="0.23" />
+
+    </com.google.android.exoplayer2.ui.SimpleExoPlayerView>
+
+
+</android.support.constraint.ConstraintLayout>

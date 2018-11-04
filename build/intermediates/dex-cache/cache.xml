@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\e8d76a0048a3a50e0adf18ec0d256d48264f9810\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="31ead391552fc8d93a7b87b0f15e83755b908904">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e4079f4e904ad709b711a8d94bdab92f6a50b04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\5406661624393bd194c755e8a56905aa3bd0fc50\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99b9c8464d608a51f1b7fe543ac6c4048854262a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\2c5d150f652f061564e19cdb58115259176df747\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d533749faffea633643dc7af78de5e6e0195e8b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\76d29927916b5244b6afe2b0c63db7fdd95299df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f27770638466b981355f7f1b14e6ac764a33570\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\20c4854b885e3d817d58c96f02c7900cc44cd4c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c87624ffe5e045d4ce3582988b9d14e54c3af5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\c800a6e26677c77d994293df487e7792629cc7d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cec1d3ee87e12ae78643d94d18429116f108a1bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_d5aae7591bdeccbbd3603a40f43e4ea034609bb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.gradle\caches\modules-2\files-2.1\frankiesardo\icepick\3.2.0\5ab94f3bba3f9315532eb1ca5547d120c4f71dae\icepick-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ab94f3bba3f9315532eb1ca5547d120c4f71dae">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\icepick-3.2.0_2838105c78ddf3ac5c15dee94d307597e53a0362\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\d5daf202540a0dc494e40b02c7c7e9dea1254b01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7fd7344d958fe47d97564cfab9361dc695a88200\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\javax.inject-1_dda63974e5855625598aafcdf004f5d974fd8915\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\db7b33c8878d6025061dd423858505a879fe6c97\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a7d1d5f89815c94a839ffd4de5f083f5e166d9a5">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1c35b6254ba876622e0a23390f5fa9a22ba4e9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\2f1149586ce13d15ffe09a66eb0c4bf026b72421\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d6145aae0ed8df275d59e7a483a065214196cb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\76039089b240a2df81b2b46eb4cfd59d2283b0b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_163c668f9127fd34da2539ed5e5eab688e5034e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\8b64c3c9525441816fe85c0c35320bcf5d9a3f1b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_efd18a5d3a9241deba66ecddd2f7b91c36f79657\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\917b0235818c64f8efd1275fcb5cf3f210a262f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56b4736827ad5c68f775239fb236391137fcce91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\c36355f6b2c4d158c58916e3b25b89d43fc87b84\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71666c9972d468af3e13323e86df5e66ebc3b59e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\af59ce30628b2054169660b9918e48cf2238fec8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c84b85feaea883480750c89ddcb8e74463744f24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\2515c3e8ced79636f11b8af9b878b78b9f1220eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df5099d870483a80c34cd2ed66ebaea4f01f77f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\83e606652e0b4369c9dde97d6ac71a411e4acea7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f8eb9843e89ea821886a28d660a1916d49149415">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf687e4985f63cefc0195d98d53eb951e8795a0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_1a6313f42eb69031b521cb2f04621b6f22384a02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\65b989516d1259383987f3d597066255cb44bb6d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fca1165ffb99064836d6480db178d2d6332e2220\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.8\55a1aa1cdcfd06b9950ca856e2bc2790e105146a\dagger-2.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="55a1aa1cdcfd06b9950ca856e2bc2790e105146a">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\dagger-2.8_76454280f63ac1950dd297ec60bae226740039e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\62eb5328750aa03fb075f5ecf9a2c13c4752aec6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4800c3a83bd234e144f3cbc8c96ae6d47de2a7a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\f684b7b361ea7a5703b36057cbaac39a594d9005\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="536228b2496030d983d01856aa56b4d71b57d0db">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ae7f91e914cab538e9afa3b84dc7822adf994d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\6a9ff977d519514b53d02145d885b1cdabece918\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50c9ea26c0eef8fb6faa7d3f18cbf0d4b464b310\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9bc5192d56e4ca91a36a9218b76a83f5f9173b46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5763a401013c1d6e4fa32f1e40241597b3b5d7a7">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bdf59f6ae2ab07688cc4944d2a4c1e4c892a692c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\989d636c521caa2f477226c0bfac22e5e9d68504\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63c0588084178e96134ed3d77533ae2be5318031\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_f01aba049d972ca3c5b4b1cab5ec0b7e291fe6c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_033d526e86c28aa16b0ed4136e31a2ac6aedccb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\88463c7b83fed390f009fe71d9c98979acaa71f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92e1026b84d83a30d807162ee991bf6770709ee0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\185ebe046db08b29532bfea5b7129dd632a9fc8c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b12fc75aacd0eef9470b8410e0cf0559860a92b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pshah1\.android\build-cache\4aca6293197adec946d2c2347a58c78e0aca3254\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\pshah1\Downloads\BakingApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad3678655b2aaa0c81ac23f5be3d8770dda8b59b\classes.dex" />
+    </item>
+
+</items>
