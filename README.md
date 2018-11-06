@@ -1,5 +1,5 @@
 # BakingApp 
-Android Baking App that will allow the user, to share his/her recipes with the world. The app that will allow a user to select a recipe and see video-guided steps for how to complete it.
+Android Baking App that will allow the user, to share his/her recipes with the world. The app that will allow a user to select a recipe and see video-guided steps for how to complete it
 
 ## Screens
 
